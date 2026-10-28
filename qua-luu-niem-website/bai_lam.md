@@ -3,7 +3,7 @@
 - **Mã đề:** 21
 - **Họ tên:** Nguyễn Hữu Hoàng
 - **Lớp:** CNTT2
-- **Link repository:** 
+- **Link repository:** https://github.com/Huuhoangg310/CNTT2_Nhap-mon-CNTT_Hackathon01/blob/main/qua-luu-niem-website/bai_lam.md?plain=1
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
